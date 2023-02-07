@@ -1,0 +1,6 @@
+grep -f myfile.txt
+11911152
+shaik mohammed fareed
+k19cc
+
+
